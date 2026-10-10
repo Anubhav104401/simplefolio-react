@@ -8,7 +8,7 @@ const Hero = () => {
     <section id="hero" className="flex min-h-screen flex-col items-center justify-center overflow-x-hidden bg-surface py-16">
       <div className="site-container">
         <div
-          className="relative mx-auto w-full max-w-3xl overflow-hidden rounded-xl shadow-lg"
+          className="relative mx-auto w-full overflow-hidden rounded-xl shadow-lg"
           style={{ paddingTop: "56.25%" }}
         >
           <iframe
