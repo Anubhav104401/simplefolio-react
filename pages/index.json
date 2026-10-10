@@ -22,7 +22,7 @@
         "title": "AegisProxy",
         "description": "LLM gateway that routes requests to the cheapest model that can still answer well. A 416-d context vector feeds two classifier heads and a LinUCB contextual bandit that keeps learning post-deployment. I built the security layer, then audited and published what was wrong with my own code.",
         "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
-        "github": "ADD_YOUR_GITHUB_LINK",
+        "github": "https://github.com/Anubhav104401/aegisproxy",
         "image": "/placeholder-700x350.png"
       },
       {
@@ -36,21 +36,21 @@
         "title": "AegisProxy BI",
         "description": "Reads live deal and work-order data from monday.com and turns it into an executive briefing — revenue leakage, collection delays, and a data-quality confidence score across two joined boards, with no machine learning in the analytics layer, just carefully guarded arithmetic.",
         "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
-        "github": "ADD_YOUR_GITHUB_LINK",
+        "github": "https://github.com/Anubhav104401/AegisProxy-BI-Business-Intelligence-",
         "image": "/placeholder-700x350.png"
       },
       {
         "title": "IPL Match Prediction",
         "description": "An IPL outcome-prediction model where I found a feature mathematically identical to the label, inflating accuracy to 96%. I removed it and report the real number: 54%.",
         "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
-        "github": "ADD_YOUR_GITHUB_LINK",
+        "github": "https://github.com/Anubhav104401/IPL-match-prediction---player-clustering-team-demographics-using-Data-Mining-and-ML-models-",
         "image": "/placeholder-700x350.png"
       },
       {
         "title": "TruthLens",
         "description": "ADD_YOUR_DESCRIPTION — a hybrid fact-verification system.",
         "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
-        "github": "ADD_YOUR_GITHUB_LINK",
+        "github": "https://github.com/Anubhav104401/TruthLens",
         "image": "/placeholder-700x350.png"
       },
       {
@@ -64,14 +64,14 @@
         "title": "Big Data ETL Pipeline",
         "description": "ADD_YOUR_DESCRIPTION — a Hadoop/Hive ETL pipeline.",
         "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
-        "github": "ADD_YOUR_GITHUB_LINK",
+        "github": "https://github.com/Anubhav104401/big-data-etl-pipeline",
         "image": "/placeholder-700x350.png"
       },
       {
         "title": "Stress Guardian",
         "description": "ADD_YOUR_DESCRIPTION",
         "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
-        "github": "ADD_YOUR_GITHUB_LINK",
+        "github": "https://github.com/Anubhav104401/Stress_guardian",
         "image": "/placeholder-700x350.png"
       }
     ]
