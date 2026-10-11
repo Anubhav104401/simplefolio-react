@@ -79,7 +79,7 @@
         "description": "An end-to-end Hadoop/Hive pipeline that ingests multi-source data — web logs, IoT sensors, social media — into HDFS, transforms it with HiveQL, and exports results for BI visualization.",
         "url": "https://github.com/Anubhav104401/big-data-etl-pipeline",
         "github": "https://github.com/Anubhav104401/big-data-etl-pipeline",
-        "image": "/placeholder-700x350.png"
+        "image": "/Big-data-etl-pipeline.png"
       }
     ]
   },
