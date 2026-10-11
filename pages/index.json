@@ -68,18 +68,17 @@
         "image": "/interviewforge-ai.jpg"
       },
       {
-        "title": "Big Data ETL Pipeline",
-        "description": "An end-to-end Hadoop/Hive pipeline that ingests multi-source data — web logs, IoT sensors, social media — into HDFS, transforms it with HiveQL, and exports results for BI visualization.",
-        "url": "https://github.com/Anubhav104401/big-data-etl-pipeline",
-        "github": "https://github.com/Anubhav104401/big-data-etl-pipeline",
-        "image": "/placeholder-700x350.png"
-      },
-      {
         "title": "Stress Guardian",
         "description": "An AI coach for stress caused by specific people, not generic anxiety. Pick a personality type, describe the situation, and a four-stage framework analyzes severity and writes a relief plan with actual sentences to say to the person involved.",
         "url": "https://github.com/Anubhav104401/Stress_guardian",
         "github": "https://github.com/Anubhav104401/Stress_guardian",
         "image": "/stress-guardian.jpg"
+      },{
+        "title": "Big Data ETL Pipeline",
+        "description": "An end-to-end Hadoop/Hive pipeline that ingests multi-source data — web logs, IoT sensors, social media — into HDFS, transforms it with HiveQL, and exports results for BI visualization.",
+        "url": "https://github.com/Anubhav104401/big-data-etl-pipeline",
+        "github": "https://github.com/Anubhav104401/big-data-etl-pipeline",
+        "image": "/placeholder-700x350.png"
       }
     ]
   },
