@@ -93,3 +93,5 @@
     { "title": "GitHub", "url": "https://github.com/Anubhav104401?tab=repositories" }
   ]
 }
+EOF
+python3 -c "import json; json.load(open('/home/claude/outputs_preview/index.json')); print('valid JSON, ' + str(len(json.load(open('/home/claude/outputs_preview/index.json'))['projects']['projects'])) + ' projects')"
