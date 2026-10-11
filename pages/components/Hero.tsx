@@ -12,7 +12,7 @@ const Hero = () => {
           style={{ paddingTop: "56.25%" }}
         >
           <iframe
-            src="https://www.youtube.com/embed/JbzvEm_od5A"
+            src="https://www.youtube.com/embed/j1DNUzEVwR8"
             className="absolute left-0 top-0 h-full w-full border-0"
             title={`${hero.name} - Introduction`}
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
