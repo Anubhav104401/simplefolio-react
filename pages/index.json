@@ -21,7 +21,7 @@
       {
         "title": "AegisProxy",
         "description": "LLM gateway that routes requests to the cheapest model that can still answer well. A 416-d context vector feeds two classifier heads and a LinUCB contextual bandit that keeps learning post-deployment. I built the security layer, then audited and published what was wrong with my own code.",
-        "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
+        "url": "https://github.com/Anubhav104401/aegisproxy",
         "github": "https://github.com/Anubhav104401/aegisproxy",
         "image": "/aegisproxy.jpg"
       },
@@ -33,44 +33,51 @@
         "image": "/cat-fleetiq.jpg"
       },
       {
+        "title": "Edumate",
+        "description": "A full campus-automation platform built for my Software Quality Assurance coursework — admissions, attendance, exams, fees, timetable, and library, multi-campus and role-based. Every defect fix documented in the SQA report is covered by an automated test: optimistic locking on attendance, audited marks entry, dual-approval result publishing.",
+        "url": "https://github.com/Anubhav104401/Edumate",
+        "github": "https://github.com/Anubhav104401/Edumate",
+        "image": "/edumate.jpg"
+      },
+      {
         "title": "AegisProxy BI",
         "description": "Reads live deal and work-order data from monday.com and turns it into an executive briefing — revenue leakage, collection delays, and a data-quality confidence score across two joined boards, with no machine learning in the analytics layer, just carefully guarded arithmetic.",
-        "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
+        "url": "https://github.com/Anubhav104401/AegisProxy-BI-Business-Intelligence-",
         "github": "https://github.com/Anubhav104401/AegisProxy-BI-Business-Intelligence-",
         "image": "/aegisproxy-bi.jpg"
       },
       {
         "title": "IPL Match Prediction",
         "description": "An IPL outcome-prediction model where I found a feature mathematically identical to the label, inflating accuracy to 96%. I removed it and report the real number: 54%.",
-        "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
+        "url": "https://github.com/Anubhav104401/IPL-match-prediction---player-clustering-team-demographics-using-Data-Mining-and-ML-models-",
         "github": "https://github.com/Anubhav104401/IPL-match-prediction---player-clustering-team-demographics-using-Data-Mining-and-ML-models-",
         "image": "/ipl-match-prediction.jpg"
       },
       {
         "title": "TruthLens",
-        "description": "ADD_YOUR_DESCRIPTION — a hybrid fact-verification system.",
-        "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
+        "description": "A fake-news detection system combining a trained classifier, hand-written rules, and live web verification through Gemini. Every verdict ships with a confidence score, highlighted suspicious phrases, and a LIME-based explanation — not just a label.",
+        "url": "https://github.com/Anubhav104401/TruthLens",
         "github": "https://github.com/Anubhav104401/TruthLens",
         "image": "/truthlens.jpg"
       },
       {
         "title": "InterviewForge AI",
-        "description": "ADD_YOUR_DESCRIPTION — an AI-powered resume analyzer and interview-prep tool.",
+        "description": "Upload a resume, pick a target role, and get a 0-100 readiness score across five dimensions, a recruiter-grade critique, 40 tailored interview questions, and a 90-day upskilling roadmap — every output ships with a 'why' explanation.",
         "url": "https://github.com/Anubhav104401/Resume_analyzer",
         "github": "https://github.com/Anubhav104401/Resume_analyzer",
         "image": "/interviewforge-ai.jpg"
       },
       {
         "title": "Big Data ETL Pipeline",
-        "description": "ADD_YOUR_DESCRIPTION — a Hadoop/Hive ETL pipeline.",
-        "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
+        "description": "An end-to-end Hadoop/Hive pipeline that ingests multi-source data — web logs, IoT sensors, social media — into HDFS, transforms it with HiveQL, and exports results for BI visualization.",
+        "url": "https://github.com/Anubhav104401/big-data-etl-pipeline",
         "github": "https://github.com/Anubhav104401/big-data-etl-pipeline",
         "image": "/placeholder-700x350.png"
       },
       {
         "title": "Stress Guardian",
-        "description": "ADD_YOUR_DESCRIPTION",
-        "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
+        "description": "An AI coach for stress caused by specific people, not generic anxiety. Pick a personality type, describe the situation, and a four-stage framework analyzes severity and writes a relief plan with actual sentences to say to the person involved.",
+        "url": "https://github.com/Anubhav104401/Stress_guardian",
         "github": "https://github.com/Anubhav104401/Stress_guardian",
         "image": "/stress-guardian.jpg"
       }
@@ -82,7 +89,7 @@
     "formId": "ADD_YOUR_FORMSPREE_FORM_ID"
   },
   "footer": [
-    { "title": "LinkedIn", "url": "https://linkedin.com/in/anubhav-kumar-b1b463298" },
-    { "title": "GitHub", "url": "https://github.com/Anubhav104401" }
+    { "title": "LinkedIn", "url": "https://www.linkedin.com/in/anubhav-kumar-b1b463298" },
+    { "title": "GitHub", "url": "https://github.com/Anubhav104401?tab=repositories" }
   ]
 }
