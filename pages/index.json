@@ -73,7 +73,8 @@
         "url": "https://github.com/Anubhav104401/Stress_guardian",
         "github": "https://github.com/Anubhav104401/Stress_guardian",
         "image": "/stress-guardian.jpg"
-      },{
+      },
+      {
         "title": "Big Data ETL Pipeline",
         "description": "An end-to-end Hadoop/Hive pipeline that ingests multi-source data — web logs, IoT sensors, social media — into HDFS, transforms it with HiveQL, and exports results for BI visualization.",
         "url": "https://github.com/Anubhav104401/big-data-etl-pipeline",
