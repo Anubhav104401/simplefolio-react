@@ -11,7 +11,7 @@
   },
   "about": {
     "title": "About me",
-    "image": "/placeholder.png",
+    "image": "/anubhav-profile.jpg",
     "primary": "I'm a final-year Computer Science student at Jain University, Bengaluru, focused on backend and AI systems. My work centers on LLM infrastructure and security engineering — systems that hold up to real scrutiny, including my own.",
     "secondary": "I build and audit my own projects end-to-end: cost-optimal LLM routing, PII redaction pipelines, fleet analytics. I publish what's wrong with my own code as readily as what works."
   },
@@ -23,42 +23,42 @@
         "description": "LLM gateway that routes requests to the cheapest model that can still answer well. A 416-d context vector feeds two classifier heads and a LinUCB contextual bandit that keeps learning post-deployment. I built the security layer, then audited and published what was wrong with my own code.",
         "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
         "github": "https://github.com/Anubhav104401/aegisproxy",
-        "image": "/placeholder-700x350.png"
+        "image": "/aegisproxy.jpg"
       },
       {
         "title": "Cat FleetIQ",
         "description": "A fleet control tower co-built with my team for Caterpillar's hackathon, earning a Special Mention. Turns live fleet and vehicle data into operational insight.",
         "url": "https://github.com/Anubhav104401/CodeExcavators",
         "github": "https://github.com/Anubhav104401/CodeExcavators",
-        "image": "/placeholder-700x350.png"
+        "image": "/cat-fleetiq.jpg"
       },
       {
         "title": "AegisProxy BI",
         "description": "Reads live deal and work-order data from monday.com and turns it into an executive briefing — revenue leakage, collection delays, and a data-quality confidence score across two joined boards, with no machine learning in the analytics layer, just carefully guarded arithmetic.",
         "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
         "github": "https://github.com/Anubhav104401/AegisProxy-BI-Business-Intelligence-",
-        "image": "/placeholder-700x350.png"
+        "image": "/aegisproxy-bi.jpg"
       },
       {
         "title": "IPL Match Prediction",
         "description": "An IPL outcome-prediction model where I found a feature mathematically identical to the label, inflating accuracy to 96%. I removed it and report the real number: 54%.",
         "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
         "github": "https://github.com/Anubhav104401/IPL-match-prediction---player-clustering-team-demographics-using-Data-Mining-and-ML-models-",
-        "image": "/placeholder-700x350.png"
+        "image": "/ipl-match-prediction.jpg"
       },
       {
         "title": "TruthLens",
         "description": "ADD_YOUR_DESCRIPTION — a hybrid fact-verification system.",
         "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
         "github": "https://github.com/Anubhav104401/TruthLens",
-        "image": "/placeholder-700x350.png"
+        "image": "/truthlens.jpg"
       },
       {
         "title": "InterviewForge AI",
         "description": "ADD_YOUR_DESCRIPTION — an AI-powered resume analyzer and interview-prep tool.",
         "url": "https://github.com/Anubhav104401/Resume_analyzer",
         "github": "https://github.com/Anubhav104401/Resume_analyzer",
-        "image": "/placeholder-700x350.png"
+        "image": "/interviewforge-ai.jpg"
       },
       {
         "title": "Big Data ETL Pipeline",
@@ -72,7 +72,7 @@
         "description": "ADD_YOUR_DESCRIPTION",
         "url": "ADD_YOUR_REPO_OR_DEMO_LINK",
         "github": "https://github.com/Anubhav104401/Stress_guardian",
-        "image": "/placeholder-700x350.png"
+        "image": "/stress-guardian.jpg"
       }
     ]
   },
