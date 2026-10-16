@@ -26,7 +26,12 @@ const About = () => {
               <p>{about.primary}</p>
               <p className="mt-6">{about.secondary}</p>
               <div className="mt-6">
-                <a href="#" className="cta-btn cta-btn--resume">
+                <a
+                  href="/Anubhav_Kumar_Resume.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="cta-btn cta-btn--resume"
+                >
                   View Resume
                 </a>
               </div>
